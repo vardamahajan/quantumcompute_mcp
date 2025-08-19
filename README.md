@@ -32,7 +32,7 @@ A powerful Model Context Protocol (MCP) server that enables natural language qua
 
 ```bash
 # Clone the repository
-git clone https://github.com/sakshiglaze/QuantumComputeMCPServer.git
+git clone https://github.com/vardamahajan/QuantumComputeMCPServer.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -257,7 +257,7 @@ The server includes comprehensive error handling:
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/sakshiglaze/QuantumComputeMCPServer.git
+git clone https://github.com/vardamahajan/QuantumComputeMCPServer.git
 
 # Create virtual environment
 python -m venv venv
@@ -314,9 +314,6 @@ LOG_LEVEL=DEBUG python quantum_mcp_server.py
 - [ ] Interactive circuit building
 - [ ] Real-time collaboration features
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments 🙏
 
@@ -326,12 +323,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - [Model Context Protocol](https://modelcontextprotocol.io) for the MCP specification
 - [Anthropic](https://anthropic.com) for Claude and MCP tools
 
-## Support 💬
-
-- 📧 Email: sakshiglaze@gmail.com
-- 💬 Discord: [Join our community](https://discord.gg/UD4jyGHP)
-- 📖 Documentation: [Full Documentation](https://quantum-mcp-docs.example.com)
-- Medium: [Code Explaination](https://medium.com/@sakshiglaze/quantum-computing-meets-natural-language-building-an-mcp-server-for-quantum-circuits-e931ede21138)
 
 ---
 ## Disclaimer
